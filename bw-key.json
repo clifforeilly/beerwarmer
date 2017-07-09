@@ -1,9 +1,9 @@
 {
   "type": "service_account",
   "project_id": "beer-warmer",
-  "private_key_id": "d0e9925dbf5c5b15facedab7fe0a777974e374dc",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkDByJG7/HvUe1\nBB+qRupPAYaQ+8LTIIJ8pUyG+rElpoJLwk+CzaN1YU/WonweFZwyjhl9sgD+jdGZ\nfCzRjhIn898qs8S1isqL9ohVw0aXO5CGBP5krAihBqZyrwldbBpv+fgWR7i7NZ/Y\nbTYDDOr/0sISogtNB8tbXCraB5UAwwFoJGxaU2+iDdgun1SDaYvQDs1jYNBIvlD/\nu7UvC+1wWF+uC59xJ5W7ziDve4uVU2WgY2Aru5YGBSdQp+Wwnap6fH7ja5kKISrS\n6OJDZdyWaMFfHbU/KJrt8O5KhOl+Iwksy/9zpjb5kqz3vVVa26oDAh5tUXTh8WB0\n2+plOrZvAgMBAAECggEABZZEAodnaK4RmyCg03PG1xn+M0HfyMD6sLQQfyhakCWz\nmlDr1FCcmIrP5UdzYrLptu8P/y/oyMKbuNZ50Ek+ZQ3xM8sbj/NCIrIqwoD8DnqA\n2Y+h+lvBj3pigNVlREFCRT4GLPwUVovk/cH6bPArsLrE0U2jhOQXEO16qCJJ+NSd\nZ00e0ohbBD2wm6C9C/e3vpkn+DrB34IIH3m4FVnbIt3nkUIQn8Q4AKK8IaioGJEH\nOE/s5HGpEafQgHBZI59CTALKmqp9q0IufwlT62801/p97gyRUMBwf7/2176HWM2e\nbMDz43ts0qL4qIaJ5dosXLUGh/dXGIX9hq8h3KJTgQKBgQDVVwp/E5voeAmGFjMZ\nML4TTMXBzHDeMvUFDGfslsohTDNFD/42asQGxZJABNMspvKOQdeLGi+wcEQlVgbT\n7VDkYATsdS6dLPJ7Nnz2MozNaQnaMBATAlXKN/0FLPxEXZBbsZ6EIWwL4ftn2APG\nLKDcqDuWocdv5UEvS9AgaUaVhwKBgQDE2cIOWSmWPEl/0oiZSshoMJn0fdmu19yb\nmwetLK4DkiISdJMoleQLMY+/YWRFGV/yvhId+PAyR6jnVzSdsdIPIiQ7jcS+pTpp\nvI5zUaLkJTBY5keDWREQ6x5HqGMhEyhUNJjDTMzxgg1B+FybhdlJWp3JSX1H/Bra\nX5DF4cgR2QKBgDZAjkDGoc06SWG534C2bn/F9DxWWxWGa9y+zObTac+R6y/S41i/\nSd5W+9wf3fvq8J/QipmrLRl3Uz0TZWUbYojRCi9/lT0PIxLGRnztWfUakxDTTCMp\nYtur5UIdsIFKMd2/i4oaXbmf3CkKO9t3mejDN3QU6/y+lhcK9oBnhTWdAoGBAIVs\nIv+ep3VQv3CHvlZIPbWA25i/hD/hx4Egfv99fSSmc7mWkfe8QKjlmszYsiGzpTje\nY2E1TXiG4ZCLpvoLgJkJRw2mdWfSjdkFGHhJKOMB4dcfnfEE+XBCLG/dTfMpDPil\n/bTB5Vb8EwhX0k0HV9NEPBYmXWfhFEJW68Vz1ythAoGAfqYEzd6edX+wNsQnNDId\nR5tpFLTV5vlpA6QQ7ghyrd7Z3hgcrHIpR7OTnitPgJI+2lJL/aJpcVhidELSDmKO\ncLv4JWG9sFvSUFf0CGMRMnKaYV+T6X/pUV4YSKYWTsHcq9pO2skxnxLzDkbTIRJV\ngaHgjjWThZc2j60D9n634ek=\n-----END PRIVATE KEY-----\n",
-  "client_email": "key1-448@beer-warmer.iam.gserviceaccount.com",
+  -missing lines here
+
+ "client_email": "key1-448@beer-warmer.iam.gserviceaccount.com",
   "client_id": "113228905409101556450",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://accounts.google.com/o/oauth2/token",
